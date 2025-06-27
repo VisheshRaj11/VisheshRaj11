@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Vishesh Rajput, a passionate developer who enjoys building useful and creative applications.<br>Currently diving deeper into Android Development while having a solid foundation in the MERN stack (MongoDB, Express.js, React, Node.js).<br><br>🚀 What I'm Working On:<br><br>🤖 Building Android apps with Java/Kotlin and XML layouts<br><br>🌐 Developing full-stack web apps using MERN<br><br>🧠 Constantly learning and exploring new tools and technologies
+Hey there! I'm Vishesh Raj, a passionate developer who enjoys building useful and creative applications.<br>Currently diving deeper into Android Development while having a solid foundation in the MERN stack (MongoDB, Express.js, React, Node.js).<br><br>🚀 What I'm Working On:<br><br>🤖 Building Android apps with Java/Kotlin and XML layouts<br><br>🌐 Developing full-stack web apps using MERN<br><br>🧠 Constantly learning and exploring new tools and technologies
 
 
 ## 🌐 Socials:
