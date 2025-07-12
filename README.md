@@ -1,48 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Welcome Spinner</title>
-  <style>
-    body {
-      background-color: #0f172a; /* Optional dark theme */
-      margin: 0;
-      padding: 0;
-      overflow-x: hidden;
-      font-family: 'Fira Code', monospace;
-    }
 
-    .spinner {
-      position: fixed;
-      top: 50%;
-      transform: translateY(-50%);
-      font-size: 40px;
-      animation: spin 2s linear infinite;
-      z-index: 1000;
-    }
-
-    .spinner.left {
-      left: 20px;
-    }
-
-    .spinner.right {
-      right: 20px;
-    }
-
-    .typing-container {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
-
-    @keyframes spin {
-      0% { transform: translateY(-50%) rotate(0deg); }
-      100% { transform: translateY(-50%) rotate(360deg); }
-    }
-  </style>
-</head>
-<body>
 
   <!-- Left Spinner -->
   <div class="spinner left">⚙️</div>
@@ -56,10 +12,6 @@
 
   <!-- Right Spinner -->
   <div class="spinner right">⚙️</div>
-
-</body>
-</html>
-
 
 # 💫 About Me:
 Hey there! I'm Vishesh Raj, a passionate developer who enjoys building useful and creative applications.<br>Currently diving deeper into Android Development while having a solid foundation in the MERN stack (MongoDB, Express.js, React, Node.js).<br><br>🚀 What I'm Working On:<br><br>🤖 Building Android apps with Java/Kotlin and XML layouts<br><br>🌐 Developing full-stack web apps using MERN<br><br>🧠 Constantly learning and exploring new tools and technologies
