@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=24&pause=1000&color=FF61A6&center=true&vCenter=true&width=1000&lines=👋+Hi+I'm+Vishesh+Raj!;💡+Turning+Ideas+Into+Code;📱+Android+Dev+%7C+Kotlin+%7C+XML;🌐+Full-Stack+with+MERN+Magic;🚀+Always+Learning%2C+Always+Building;🤝+Let's+Collaborate+and+Innovate!" alt="Creative Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Vishesh+Raj.;Passionate+Developer+%F0%9F%94%A5;Android+%2B+MERN+Stack+Enthusiast;Love+Building+Creative+Apps+%F0%9F%92%BB;Let's+Connect!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 
