@@ -1,6 +1,64 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=⏳+Welcome+to+my+GitHub+space!+⏳;⏳+Hey+there!+I'm+Vishesh+Raj+%F0%9F%91%8B+⏳;⏳+Passionate+Developer+%F0%9F%94%A5+⏳;⏳+MERN+%2B+Android+App+Craftsman+%F0%9F%93%B1+⏳;⏳+I+love+solving+real-world+problems+%F0%9F%94%A1+⏳;⏳+Let’s+turn+ideas+into+reality+%F0%9F%8C%9F+⏳;⏳+Every+line+of+code+tells+a+story+%F0%9F%93%9A+⏳;⏳+Let’s+connect+and+create+magic+%F0%9F%A4%AA+⏳" alt="Typing SVG" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Welcome Spinner</title>
+  <style>
+    body {
+      background-color: #0f172a; /* Optional dark theme */
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+      font-family: 'Fira Code', monospace;
+    }
+
+    .spinner {
+      position: fixed;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 40px;
+      animation: spin 2s linear infinite;
+      z-index: 1000;
+    }
+
+    .spinner.left {
+      left: 20px;
+    }
+
+    .spinner.right {
+      right: 20px;
+    }
+
+    .typing-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    @keyframes spin {
+      0% { transform: translateY(-50%) rotate(0deg); }
+      100% { transform: translateY(-50%) rotate(360deg); }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Left Spinner -->
+  <div class="spinner left">⚙️</div>
+
+  <!-- Typing Animation -->
+  <div class="typing-container">
+    <p align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+space!;Hey+there!+I'm+Vishesh+Raj+%F0%9F%91%8B;Passionate+Developer+%F0%9F%94%A5;MERN+%2B+Android+App+Craftsman+%F0%9F%93%B1;Love+solving+real-world+problems+%F0%9F%94%A1;Let’s+turn+ideas+into+reality+%F0%9F%8C%9F;Every+line+of+code+tells+a+story+%F0%9F%93%9A;Let’s+connect+and+create+magic+%F0%9F%A4%AA" alt="Typing SVG" />
+    </p>
+  </div>
+
+  <!-- Right Spinner -->
+  <div class="spinner right">⚙️</div>
+
+</body>
+</html>
 
 
 # 💫 About Me:
