@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F76D6D&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Vishesh+Raj.;Passionate+Developer+%F0%9F%94%A5;Android+%2B+MERN+Stack+Enthusiast;Love+Building+Creative+Apps+%F0%9F%92%BB;Let's+Connect!+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
+
 # 💫 About Me:
 Hey there! I'm Vishesh Raj, a passionate developer who enjoys building useful and creative applications.<br>Currently diving deeper into Android Development while having a solid foundation in the MERN stack (MongoDB, Express.js, React, Node.js).<br><br>🚀 What I'm Working On:<br><br>🤖 Building Android apps with Java/Kotlin and XML layouts<br><br>🌐 Developing full-stack web apps using MERN<br><br>🧠 Constantly learning and exploring new tools and technologies
 
