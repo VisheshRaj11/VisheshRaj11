@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=⏳+Welcome+to+my+GitHub+space!+⏳;⏳+Hey+there!+I'm+Vishesh+Raj+%F0%9F%91%8B+⏳;⏳+Passionate+Developer+%F0%9F%94%A5+⏳;⏳+MERN+%2B+Android+App+Craftsman+%F0%9F%93%B1+⏳;⏳+I+love+solving+real-world+problems+%F0%9F%94%A1+⏳;⏳+Let’s+turn+ideas+into+reality+%F0%9F%8C%9F+⏳;⏳+Every+line+of+code+tells+a+story+%F0%9F%93%9A+⏳;⏳+Let’s+connect+and+create+magic+%F0%9F%A4%AA+⏳" alt="Typing SVG" />
-</p>
+<div align="center" style="background: linear-gradient(to right, #0b1e45, #6a0dad, #000000); padding: 20px; border-radius: 10px;">
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=⏳+Welcome+to+my+GitHub+space!+⏳;⏳+Hey+there!+I'm+Vishesh+Raj+%F0%9F%91%8B+⏳;⏳+Passionate+Developer+%F0%9F%94%A5+⏳;⏳+MERN+%2B+Android+App+Craftsman+%F0%9F%93%B1+⏳;⏳+I+love+solving+real-world+problems+%F0%9F%94%A1+⏳;⏳+Let’s+turn+ideas+into+reality+%F0%9F%8C%9F+⏳;⏳+Every+line+of+code+tells+a+story+%F0%9F%93%9A+⏳;⏳+Let’s+connect+and+create+magic+%F0%9F%A4%AA+⏳" alt="Typing SVG" />
+  </p>
+</div>
 
 
 # 💫 About Me:
