@@ -1,4 +1,4 @@
-<div align="center"  style="background: linear-gradient(to right, #0b1e45, #6a0dad, #000000); padding: 20px; border-radius: 10px;">
+<div align="center"   style="background: linear-gradient(to right, #0b1e45, #6a0dad, #000000); padding: 20px; border-radius: 10px;">
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=FFB6C1&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+space!;Hey+there!+I'm+Vishesh+Raj;Passionate+Developer;MERN+%2B+Android+App+Craftsman;I+love+solving+real-world+problems;Let%E2%80%99s+turn+ideas+into+reality;Every+line+of+code+tells+a+story;Let%E2%80%99s+connect+and+create+magic" alt="Typing SVG" />
 </p>
