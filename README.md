@@ -7,7 +7,6 @@
 # 💫 About Me:
 About Me<br><br>👋 Hi, I’m Vishesh, a passionate Web Developer<br><br>🌱 Currently contributing to open-source projects like OSCI, GSSOC<br><br>💻 Skilled in MERN stack and Android development<br><br>🚀 Experienced in building real-world applications<br><br>📚 Always learning and exploring new technologies
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishesh-raj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:visheshrajput47@gmail.com) 
 
