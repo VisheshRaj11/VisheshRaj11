@@ -5,7 +5,7 @@
 </div>
 
 # 💫 About Me:
-About Me<br><br>👋 Hi, I’m Vishesh, a passionate Web Developer<br><br>🌱 Currently contributing to open-source projects like OSCI, GSSOC<br><br>💻 Skilled in MERN stack and Android development<br><br>🚀 Experienced in building real-world applications<br><br>📚 Always learning and exploring new technologies
+About Me<br><br> Hi, I’m Vishesh, a passionate Web Developer<br><br> Currently contributing to open-source projects like OSCI, GSSOC<br><br> Skilled in MERN stack and Android development<br><br> Experienced in building real-world applications<br><br> Always learning and exploring new technologies
 
 ## 🌐 Socials:
 <p align="center">
