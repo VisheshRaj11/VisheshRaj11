@@ -1,137 +1,85 @@
-<!-- ======================= 🌌 SIGNATURE CYBERPUNK HEADER ========================= -->
-<div align="center" style="padding: 40px; border-radius: 20px;
-background: radial-gradient(circle at top, #4700ff, #000000 70%);
-box-shadow: 0 0 40px #6e00ffb2; position: relative;">
-
-<!-- Floating emojis -->
-<div style="font-size: 40px; position: absolute; left: 20px; top: 20px; animation: float 3s ease-in-out infinite;">
-  🚀
-</div>
-<div style="font-size: 40px; position: absolute; right: 20px; bottom: 20px; animation: float 3.5s ease-in-out infinite;">
-  💡
-</div>
-
-<!-- Custom SVG Glitch Title -->
-<img src="https://raw.githubusercontent.com/VisheshRaj11/glitch-title/main/header.svg" width="100%" />
-
-<!-- Typewriter intro -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1500&color=CB9BFF&center=true&vCenter=true&width=1000&lines=Vishesh+Raj+—+Code+Artist+%26+Digital+Creator;MERN+Engineer+%7C+Android+App+Craftsman;Open+Source+%E2%9D%A4%EF%B8%8F+Community+Driven;Building+Experiences%2C+Not+Just+Software..." />
-</div>
-
----
-
-<!-- ======================= 🧊 GLASS ABOUT BOX ========================= -->
-<div align="center" style="
-margin-top: 20px;
-padding: 25px;
-backdrop-filter: blur(8px);
-background: rgba(255,255,255,0.05);
-border: 1px solid rgba(255,255,255,0.1);
-border-radius: 20px;
-box-shadow: 0 0 20px #7a00ff4d;">
-  
-<h2 style="color:#C596FF">✨ About Me — The Vision</h2>
-
-<img align="right" width="260" src="https://i.imgur.com/QEcYFzG.gif" style="border-radius:15px;"/>
-
-🔹 MERN Stack Developer  
-🔹 Android Craftsman (Kotlin Lover)  
-🔹 Creative Frontend + Logical Backend  
-🔹 Contributor to **OSCI, GSSOC & Open Source**  
-🔹 Passionate about *clean UI, animations, performance & DX*  
-🔹 Building things people love using  
-
-**“I don’t just write code — I design experiences.”**
-
-</div>
-
----
-
-# 🎧 Aesthetic Music Vibe  
-<p align="center">
-  <img src="https://i.imgur.com/pJY2bTS.gif" width="700" style="border-radius:12px;" />
-</p>
-
----
-
-<!-- ======================= ⚡ SIGNATURE SKILL GRID ========================= -->
-# 🧠 Tech Arsenal — “My Digital Superpowers”
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,mongodb,java,kotlin,py,cpp,tailwind,vite,firebase,git,github,figma,androidstudio&theme=dark" />
-
-</p>
-
----
-
-<!-- ======================= 🔥 CINEMATIC BANNER ========================= -->
-<p align="center">
-  <img src="https://i.imgur.com/kFQqzb4.gif" width="900" style="border-radius:20px;" />
-</p>
-
----
-
-# 📊 **Performance Dashboard**
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VisheshRaj11&theme=react&show_icons=true&hide_border=true&bg_color=0D1117" height="155" />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=VisheshRaj11&theme=react&hide_border=true" height="155"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisheshRaj11&layout=compact&theme=react&hide_border=true" height="155"/>
+  <div style="background: linear-gradient(to right, #0b1e45, #6a0dad, #000000); padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=FFB6C1&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+space!;Hey+there!+I'm+Vishesh+Raj;Passionate+Developer;MERN+%2B+Android+App+Craftsman;I+love+solving+real-world+problems;Let%E2%80%99s+turn+ideas+into+reality;Every+line+of+code+tells+a+story;Let%E2%80%99s+connect+and+create+magic" alt="Typing SVG" />
+  </div>
 </div>
 
----
+<br>
 
-# 🧩 **Top Contributions**
+<h1 align="center">💫 About Me</h1>
+
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=VisheshRaj11&limit=7&theme=algolia&combine_all_yearly_contributions=true" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkeGt4eW53ZXAxOHJ2aXJ6b3B6Z3ZueWx2b3B6Z3ZueWx2b3B6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpPcbC6r8eRk8Vb9dE/giphy.gif" width="60" alt="wave" />
+  <br>
+  <b>👋 Hi, I’m Vishesh, a passionate Web Developer</b>
 </p>
 
----
-
-<!-- ======================= 🌊 ANIMATED WAVE DIVIDER ========================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" />
+  🌱 Currently contributing to open-source projects like OSCI, GSSOC <br>
+  💻 Skilled in MERN stack and Android development <br>
+  🚀 Experienced in building real-world applications <br>
+  📚 Always learning and exploring new technologies
 </p>
 
----
+<br>
 
-# 🚀 **Featured Projects (Animated Showcase)**  
+<h2 align="center">🌐 Socials</h2>
 <p align="center">
-<img src="https://i.imgur.com/zbvjp7C.gif" width="700" style="border-radius:20px;"/>
+  <a href="https://linkedin.com/in/vishesh-raj">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:visheshrajput47@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
----
+<br>
 
-# 🌌 “My Workflow Universe”
+<h2 align="center">💻 Tech Stack</h2>
+
 <p align="center">
-  <img src="https://i.imgur.com/zL9P4Kw.gif" width="500" />
+  <!-- Core Languages & Tools using SkillIcons for aesthetic rounded look -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,py,js,ts,html,css,md,powershell,linux&theme=dark" alt="Languages" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite,jquery,nodejs,express,bun,mongodb,firebase,gcp,vercel,netlify,git,github,figma,postman&theme=dark" alt="Frameworks & Tools" />
+  </a>
 </p>
 
-> *I build systems that feel alive, fast, and futuristic.*
-
----
-
-# 🌍 Socials  
+<!-- Additional Libraries & Tools -->
 <p align="center">
-  <a href="https://linkedin.com/in/vishesh-raj"><img src="https://skillicons.dev/icons?i=linkedin" height="50" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:visheshrajput47@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50" /></a>
+  <img src="https://img.shields.io/badge/Chart.js-F5788D?style=flat-square&logo=chart.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=flat-square&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens" />
+  <img src="https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=flat-square&logo=prettier&logoColor=black" />
+  <img src="https://img.shields.io/badge/Adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white" />
 </p>
 
----
+<br>
 
-# 👁 Visitor Counter  
-<p align="center">
- <img src="https://visitcount.itsvg.in/api?id=VisheshRaj11&label=Profile%20Views&color=6&icon=5" />
-</p>
-
----
-
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  
-## ⭐ If my work inspires you — consider starring my repositories  
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAi/heart-pixel.gif" width="80"/>
-
+  <!-- Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VisheshRaj11&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="Stats" />
+  <br/><br/>
+  <!-- Streak -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=VisheshRaj11&theme=tokyonight&hide_border=true" alt="Streak" />
+  <br/><br/>
+  <!-- Top Langs -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisheshRaj11&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs" />
 </div>
+
+<h3 align="center">🔝 Top Contributed Repo</h3>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=VisheshRaj11&limit=5&theme=github_dark&combine_all_yearly_contributions=true" />
+</div>
+
+<hr>
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=VisheshRaj11&icon=0&color=0" />
+  </a>
+</p>
