@@ -6,31 +6,50 @@
 
 <br>
 
-<h1 align="center">💫 About Me</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkeGt4eW53ZXAxOHJ2aXJ6b3B6Z3ZueWx2b3B6Z3ZueWx2b3B6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpPcbC6r8eRk8Vb9dE/giphy.gif" width="60" alt="wave" />
-  <br>
-  <b>👋 Hi, I’m Vishesh, a passionate Web Developer</b>
-</p>
-
-<p align="center">
-  🌱 Currently contributing to open-source projects like OSCI, GSSOC <br>
-  💻 Skilled in MERN stack and Android development <br>
-  🚀 Experienced in building real-world applications <br>
-  📚 Always learning and exploring new technologies
-</p>
+<!-- About Me Section -->
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="50%">
+         <h1 align="center">💫 About Me</h1>
+        <p align="center">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkeGt4eW53ZXAxOHJ2aXJ6b3B6Z3ZueWx2b3B6Z3ZueWx2b3B6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpPcbC6r8eRk8Vb9dE/giphy.gif" width="40" alt="wave" />
+          <br>
+          <b>👋 Hi, I’m Vishesh, a passionate Web Developer</b>
+        </p>
+        <p align="center">
+          🌱 Currently contributing to open-source projects like OSCI, GSSOC <br>
+          💻 Skilled in MERN stack and Android development <br>
+          🚀 Experienced in building real-world applications <br>
+          📚 Always learning and exploring new technologies
+        </p>
+    </td>
+    <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
+<!-- Socials -->
 <h2 align="center">🌐 Socials</h2>
 <p align="center">
   <a href="https://linkedin.com/in/vishesh-raj">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="mailto:visheshrajput47@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" />
   </a>
+</p>
+
+<!-- Music / Vibe Section -->
+<h2 align="center">🦄 Vibe Check</h2>
+<p align="center">
+  <a href="https://open.spotify.com/">
+    <img src="https://img.shields.io/badge/Spotify-Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+  <br>
+  <img src="https://media.giphy.com/media/26tn736173268802/giphy.gif" width="400" alt="music vibe" />
 </p>
 
 <br>
@@ -38,7 +57,6 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <!-- Core Languages & Tools using SkillIcons for aesthetic rounded look -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,py,js,ts,html,css,md,powershell,linux&theme=dark" alt="Languages" />
     <br><br>
