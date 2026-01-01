@@ -5,13 +5,13 @@
 
 
 </div>
-
 <div align="center" style="margin-top: 20px">
-
-  ![GIF](https://image2url.com/r2/default/gifs/1767291365707-8d36bff9-62be-4e72-8bd8-6088a4889387.gif)
-
+  <img 
+    src="https://image2url.com/r2/default/gifs/1767291365707-8d36bff9-62be-4e72-8bd8-6088a4889387.gif" 
+    style="width: 40%;" 
+    alt="GIF"
+  />
 </div>
-
 # 💫 About Me:
 <div style="font-family:Sans-serif; font-weight:bold; color:#FFFFFF; border-radius: 2px 30px; padding:10px 10px; background: linear-gradient(to right, #1126508c, #802fb6ff, #24272aff);">
 👋 Hi, I’m Vishesh, a passionate Web Developer<br><br>💻  Currently contributing to open-source projects like OSCI, GSSOC<br><br>💻 Skilled in MERN stack and Android development<br><br>💻 Experienced in building real-world applications<br><br>💻 Always learning and exploring new technologies
