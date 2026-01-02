@@ -1,21 +1,7 @@
-<!-- <div align="center"   style="background: linear-gradient(to right, #434549ff, #2c2332ff, #000000); padding: 20px; border-radius: 10px;">
+<div align="center"   style="background: linear-gradient(to right, #434549ff, #2c2332ff, #000000); padding: 20px; border-radius: 10px;">
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+space!;Hey+there!+I'm+Vishesh+Raj;Passionate+Developer;MERN+%2B+Android+App+Craftsman;I+love+solving+real-world+problems;Let%E2%80%99s+turn+ideas+into+reality;Every+line+of+code+tells+a+story;Let%E2%80%99s+connect+and+create+magic" alt="Typing SVG" /> 
 </p>
-</div> -->
-<div align="center" style="
-  background: linear-gradient(135deg, #434549ff, #2c2332ff, #000000);
-  padding: 32px 20px;
-  border-radius: 16px;
-  box-shadow: 0 0 40px rgba(128,47,182,0.35);
-">
-
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+space!;Hey+there!+I'm+Vishesh+Raj;Passionate+Developer;MERN+%2B+Android+App+Craftsman;I+love+solving+real-world+problems;Let%E2%80%99s+turn+ideas+into+reality"
-    alt="Typing SVG"
-    style="max-width:100%; height:auto;"
-  />
-
 </div>
 <!-- <div align="center" style="margin-top: 20px">
   <img 
