@@ -5,13 +5,26 @@
 
 
 </div>
-<div align="center" style="margin-top: 20px">
+<!-- <div align="center" style="margin-top: 20px">
   <img 
     src="https://image2url.com/r2/default/gifs/1767291365707-8d36bff9-62be-4e72-8bd8-6088a4889387.gif" 
     style="width: 300px; height: auto;" 
     alt="GIF"
   />
+</div> -->
+<div align="center" style="margin-top: 28px;">
+  <img 
+    src="https://image2url.com/r2/default/gifs/1767291365707-8d36bff9-62be-4e72-8bd8-6088a4889387.gif"
+    alt="Coding Animation"
+    style="
+      max-width: 280px;
+      width: 100%;
+      height: auto;
+      border-radius: 12px;
+    "
+  />
 </div>
+
 
 # 💫About Me:
 <div style="font-family:Sans-serif; font-weight:bold; color:#FFFFFF; border-radius: 2px 30px; padding:10px 10px; background: linear-gradient(to right, #1126508c, #802fb6ff, #24272aff);">
