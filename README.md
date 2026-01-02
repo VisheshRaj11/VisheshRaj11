@@ -24,18 +24,20 @@
     alt="GIF"
   />
 </div> -->
-<div align="center" style="margin-top: 28px;">
+<div align="center" style="width:100%; margin-top: 20px;">
   <img 
     src="https://image2url.com/r2/default/gifs/1767291365707-8d36bff9-62be-4e72-8bd8-6088a4889387.gif"
-    alt="Coding Animation"
+    alt="Hero Animation"
     style="
-      max-width: 280px;
       width: 100%;
+      max-width: 900px;
       height: auto;
-      border-radius: 12px;
+      object-fit: contain;
+      border-radius: 16px;
     "
   />
 </div>
+
 
 
 # 💫About Me:
